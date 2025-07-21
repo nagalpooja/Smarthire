@@ -1,6 +1,7 @@
 Smarthire - Job Portal App
 
 📌 Project Overview 
+
 Smarthire is a simple full-stack web application designed to help users browse job listings and create new job posts. It is built using Java Spring Boot for the backend, ReactJS for the frontend, and MongoDB for data persistence.
 
 This project demonstrates how to create a modular and scalable application using a modern technology stack, implementing essential CRUD operations with pagination and keyword-based searching.
@@ -14,22 +15,24 @@ This project demonstrates how to create a modular and scalable application using
 
 🛠️ Tech Stack
 
-Backend
+##Backend
 
 Java Spring Boot
 Spring Web (REST APIs)
 Spring Data MongoDB
 Maven
 
-Frontend
+##Frontend
 
 ReactJS
 Axios for HTTP requests
 React Router for navigation
 TailwindCSS for styling
-Database
+
+##Database
 
 MongoDB (running locally)
+
 📸 Project Screenshots
 
 🏠 Home Page
@@ -57,11 +60,11 @@ GET - Search job listings by entering a keyword related to title, description, o
 
 📌 Prerequisites
 
-Ensure you have the following installed:
+##Ensure you have the following installed:
 
-Java 17+
-Node.js & npm
-MongoDB installed locally or access to MongoDB Atlas
+1. Java 17+
+2. Node.js & npm
+3. MongoDB installed locally or access to MongoDB Atlas
 
 🔽 Backend Setup
 
