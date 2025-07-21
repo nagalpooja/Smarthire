@@ -9,8 +9,11 @@ This project demonstrates how to create a modular and scalable application using
 🚀 Features
 
 🔍 Job Feed Page: View all available job posts fetched from a local MongoDB database.
+
 🔎 Search Functionality: Filter job posts based on keywords like Java, Python, etc.
+
 📄 Pagination: Display 6 jobs per page with clickable page numbers for easy navigation.
+
 📝 Create Job Post: Submit new job listings through a form and store them in MongoDB.
 
 🛠️ Tech Stack
