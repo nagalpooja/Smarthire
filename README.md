@@ -18,6 +18,7 @@ Java Spring Boot
 Spring Web (REST APIs)
 Spring Data MongoDB
 Maven
+
 Frontend
 
 ReactJS
@@ -31,19 +32,22 @@ MongoDB (running locally)
 
 🏠 Home Page
 The Landing Page of the Job Portal Platform. 
-Screenshot 2025-07-21 at 9 42 03 AM
+<img width="1312" height="770" alt="Screenshot 2025-07-21 at 9 50 51 AM" src="https://github.com/user-attachments/assets/5f91bdda-cd5a-499d-aab5-bf13d63817b7" />
+
 
 📝 Job Creating Form Page
 POST - Create a new job 
-Screenshot 2025-07-21 at 9 42 48 AM
+<img width="1219" height="704" alt="Screenshot 2025-07-21 at 9 51 09 AM" src="https://github.com/user-attachments/assets/01ed43d1-39d8-45bf-b40e-7dc4ff95bc19" />
+
 
 💼 Job Listings
 GET - All job posts Listing here. 
-Screenshot 2025-07-21 at 9 43 12 AM
+<img width="1320" height="633" alt="Screenshot 2025-07-21 at 9 51 29 AM" src="https://github.com/user-attachments/assets/e224ab4f-c4cf-43ce-880e-0e8f213e3b73" />
+
 
 🔍 Search Job Post by Keyword
 GET - Search job listings by entering a keyword related to title, description, or company.
-Screenshot 2025-07-21 at 9 43 57 AM
+<img width="1012" height="573" alt="Screenshot 2025-07-21 at 9 52 09 AM" src="https://github.com/user-attachments/assets/dc388c14-f6b5-49a0-b056-b308362d675b" />
 
 📌 Prerequisites
 Ensure you have the following installed:
@@ -51,6 +55,7 @@ Ensure you have the following installed:
 Java 17+
 Node.js & npm
 MongoDB installed locally or access to MongoDB Atlas
+
 🔽 Backend Setup
 
 cd backend
