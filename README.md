@@ -19,7 +19,6 @@ Backend
 - [Java Spring Boot](https://start.spring.io/)
 - Spring Web (REST APIs)
 - Spring Data MongoDB
-- Swagger-UI
 - Maven
 
 Frontend
