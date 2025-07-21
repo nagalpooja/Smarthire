@@ -16,6 +16,8 @@ This project demonstrates how to create a modular and scalable application using
 
 📝 Create Job Post: Submit new job listings through a form and store them in MongoDB.
 
+📝 Delete Job Post: Users can delete job posts with confirmation prompt.
+
 🛠️ Tech Stack
 
 ##Backend
